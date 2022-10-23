@@ -1,5 +1,6 @@
 html{
     font-family: 'sans-serif';
+
 }
 body{
     background:#d7d3c6;
@@ -8,7 +9,9 @@ body{
 h1{
     padding-top: 30px;
     padding-bottom: 30px;
-    text-align: center;   
+    text-align: center;  
+     
+    
 }
 
 h2{
@@ -54,7 +57,4 @@ section{
 }
 .video{
     display: none;
-}
-.moreVideo{
-    text-align: center; 
 }
